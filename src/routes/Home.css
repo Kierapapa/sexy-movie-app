@@ -6,7 +6,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 .movies{
     height: 100%;
     padding: 10px;
@@ -47,7 +46,4 @@ li {
     clear:both;
     content:"";
     display:block;
-}
-a {
-  text-decoration: none !important;
 }

@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import {Link} from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 export const Movie = ({id, year, title, summary, poster, genres}) => {
     return (
+        
         <div className="movie">
+            <Link to={{pathname:"/movie-detail",state: {id, year, title, summary, genres}}}>
             <img src={poster} alt={title} title={title} />
             <div className="movie__data">
                 <h3 className="movie__title">{title}</h3>
@@ -11,7 +14,9 @@ export const Movie = ({id, year, title, summary, poster, genres}) => {
                 <ul className="genres">{genres.map((genre, i)=><li key={i} className="genres__genre">{genre}</li>)}</ul>
                 <p className="movie__summary">{summary.split(' ',50).join(' ')}...</p>
             </div>
+            </Link>
         </div>
+        
     )
 }
 Movie.propTypes = {
