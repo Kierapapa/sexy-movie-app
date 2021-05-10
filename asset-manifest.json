@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sexy-movie-app/static/css/main.068eee6d.chunk.css",
-    "main.js": "/sexy-movie-app/static/js/main.4b6954ac.chunk.js",
-    "main.js.map": "/sexy-movie-app/static/js/main.4b6954ac.chunk.js.map",
+    "main.css": "/sexy-movie-app/static/css/main.17ae580e.chunk.css",
+    "main.js": "/sexy-movie-app/static/js/main.f3e93a7c.chunk.js",
+    "main.js.map": "/sexy-movie-app/static/js/main.f3e93a7c.chunk.js.map",
     "runtime-main.js": "/sexy-movie-app/static/js/runtime-main.61b8f177.js",
     "runtime-main.js.map": "/sexy-movie-app/static/js/runtime-main.61b8f177.js.map",
-    "static/js/2.c937df4e.chunk.js": "/sexy-movie-app/static/js/2.c937df4e.chunk.js",
-    "static/js/2.c937df4e.chunk.js.map": "/sexy-movie-app/static/js/2.c937df4e.chunk.js.map",
+    "static/js/2.95335d1c.chunk.js": "/sexy-movie-app/static/js/2.95335d1c.chunk.js",
+    "static/js/2.95335d1c.chunk.js.map": "/sexy-movie-app/static/js/2.95335d1c.chunk.js.map",
     "index.html": "/sexy-movie-app/index.html",
-    "static/css/main.068eee6d.chunk.css.map": "/sexy-movie-app/static/css/main.068eee6d.chunk.css.map",
-    "static/js/2.c937df4e.chunk.js.LICENSE.txt": "/sexy-movie-app/static/js/2.c937df4e.chunk.js.LICENSE.txt"
+    "static/css/main.17ae580e.chunk.css.map": "/sexy-movie-app/static/css/main.17ae580e.chunk.css.map",
+    "static/js/2.95335d1c.chunk.js.LICENSE.txt": "/sexy-movie-app/static/js/2.95335d1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.61b8f177.js",
-    "static/js/2.c937df4e.chunk.js",
-    "static/css/main.068eee6d.chunk.css",
-    "static/js/main.4b6954ac.chunk.js"
+    "static/js/2.95335d1c.chunk.js",
+    "static/css/main.17ae580e.chunk.css",
+    "static/js/main.f3e93a7c.chunk.js"
   ]
 }
